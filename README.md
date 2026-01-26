@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./BitKwa-Logo.png" alt="BitKwa Logo" width="200"/>
+</p>
+
 # BitKwa Bitcoin Diploma
 
 **BitKwa Bitcoin Diploma** is an 8-week practical program designed to educate and empower Africans on Bitcoin, focusing on solving local financial challenges first, then scaling globally. The program combines theory, practical exercises, projects, and mentorship to ensure participants understand and can apply Bitcoin in real-world contexts.
