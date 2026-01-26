@@ -1,0 +1,60 @@
+# ======================
+# Operating System files
+# ======================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ======================
+# IDE / Editor files
+# ======================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ======================
+# Logs and temporary files
+# ======================
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+
+# ======================
+# Generated files / outputs
+# ======================
+*.pdf
+*.csv
+*.xlsx
+*.docx
+*.pptx
+*.zip
+
+# ======================
+# Python / Jupyter (if used for exercises)
+# ======================
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# ======================
+# Node / JavaScript (if any web assets)
+# ======================
+node_modules/
+dist/
+build/
+npm-debug.log
+yarn-error.log
+
+# ======================
+# Misc
+# ======================
+*.DS_Store
+*.env
+.env.local
+.env.*.local
