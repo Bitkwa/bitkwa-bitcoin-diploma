@@ -2,6 +2,8 @@
   <img src="./BitKwa-Logo.png" alt="BitKwa Logo" width="200"/>
 </p>
 
+> **Used in the field by [Sats On The Road Africa](https://satsontheroad.africa).** A condensed two-day version of this Diploma, with an ambassador playbook and translations, lives at [sats-on-the-road-curriculum](https://github.com/Bitkwaofficial/sats-on-the-road-curriculum). Pilot 2026: 1,000+ people onboarded, 22 educators trained, 20+ merchants, 3 countries.
+
 # BitKwa Bitcoin Diploma
 
 **BitKwa Bitcoin Diploma** is an 8-week practical program designed to educate and empower Africans on Bitcoin, focusing on solving local financial challenges first, then scaling globally. The program combines theory, practical exercises, projects, and mentorship to ensure participants understand and can apply Bitcoin in real-world contexts.
